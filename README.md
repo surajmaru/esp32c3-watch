@@ -12,7 +12,7 @@
 - Watch strap
 - Universal PCB board
 
-##Looks-
+##Looks
 
 <img height="700px" width="200px" alt="IMG_20260424_174444" src="https://github.com/user-attachments/assets/67c05609-9549-4213-a20a-c63749692357" />
 
