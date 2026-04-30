@@ -1,4 +1,4 @@
-# ESP32c3-watch ⌚
+# ESP32c3 Smartwatch ⌚
 
 ## Components i used:-
 
