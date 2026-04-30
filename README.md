@@ -1,6 +1,6 @@
 # esp32c3-watch
 
-## So i'll just directly mention the components i used.
+## Components i used.
 
 - ESP32 C3 super mini
 - 1.3inch oled display
